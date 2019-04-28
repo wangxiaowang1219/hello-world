@@ -1,3 +1,3 @@
 # hello-world
-just test\n
+just test
 初练习使用
