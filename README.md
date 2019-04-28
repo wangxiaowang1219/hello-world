@@ -1,3 +1,3 @@
 # hello-world
-just test
-初次联系使用
+just test\n
+初练习使用
